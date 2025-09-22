@@ -47,6 +47,7 @@ Even
 Odd
 ```
 Q3
+```c
  int main()
 {
         int a;
@@ -56,7 +57,9 @@ Q3
         else
                 printf("Negative");
 }
+```
 Q4
+```c
 int main()
 {
         int a;
@@ -66,8 +69,9 @@ int main()
         else
                 printf("Not a Leap Year");
 
-} 
+} ```
 Q5
+```c
 int main()
 {
         int age;
@@ -78,7 +82,9 @@ int main()
                 printf("Inelegible");
 
 }
+```
 Q6
+```c
 int main()
 {
         int m;
@@ -90,8 +96,9 @@ int main()
         else
                 printf("N is -1");
 
-}     
+}   ```  
 Q7
+```c
 int main()
 {
         int a,b,c;
@@ -108,8 +115,9 @@ int main()
                         printf("c is largest");
 
 
-}       
+}   ```    
 Q8
+```c
 int main()
 {
         char ch;
@@ -118,8 +126,9 @@ int main()
                 printf("it is a vowel");
         else
                 printf("its a consonant");
-}
+}```
 Q9
+```c
 int main()
 {
         char ch;
@@ -128,8 +137,9 @@ int main()
                 printf("it is an alphabet");
         else
                 printf("it is not an alphabet");
-}
+}```
 Q10
+```c
 int main()
 {
         int a,b;
@@ -143,7 +153,7 @@ int main()
                 printf("Min: %d",a);
         else
                 printf("Min: %d",b);
-}  
+}  ```
  Q11
 int main()
 {
